@@ -422,7 +422,7 @@ Before opening an issue, check whether the problem is caused by end4-pC itself, 
 
 ### Make your desktop feel like yours.
 
-**end4-pC** · Maintained by [Bryam]
+**end4-pC** · Maintained by Bryan
 
 [Repository](https://github.com/pctrade/end4-pC) · [Community presets](https://github.com/pctrade/end4-pCpresets) · [Original project](https://github.com/end-4/dots-hyprland)
 
