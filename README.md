@@ -416,24 +416,13 @@ Before opening an issue, check whether the problem is caused by end4-pC itself, 
 
 ---
 
-## 🙏 Credits
 
-end4-pC builds on the work of people who make open-source desktop customization possible.
-
-- **[@end-4](https://github.com/end-4)** — Creator of [dots-hyprland / illogical-impulse](https://github.com/end-4/dots-hyprland), the foundation for this project.
-- **[@gh0stzk](https://github.com/gh0stzk)** — Weather API integration used by the weather widget.
-- **[@StarS2112](https://github.com/StarS2112)** — For showcasing this fork.
-- **[@simeulinuxkaliaiwr](https://github.com/simeulinuxkaliaiwr)** — Shader transition contributions.
-
-And thank you to everyone who tests, shares presets, reports bugs, and helps improve the project.
-
----
 
 <div align="center">
 
 ### Make your desktop feel like yours.
 
-**end4-pC** · Maintained by [pctrade](https://github.com/pctrade)
+**end4-pC** · Maintained by [Bryam]
 
 [Repository](https://github.com/pctrade/end4-pC) · [Community presets](https://github.com/pctrade/end4-pCpresets) · [Original project](https://github.com/end-4/dots-hyprland)
 
